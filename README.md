@@ -1,2 +1,2 @@
-# Lyriks-Music-Recommendation-System
-Recommends music based on your genres, songs and artists
+# Build and Deploy a Lyriks Music App with React 18! (Tailwind, Shazam, Redux)
+![Music App](https://i.imgur.com/rdJxSju.jpg)
